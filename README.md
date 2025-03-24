@@ -42,6 +42,6 @@
 ---
 
 ### 🎵 Vibes While Coding  
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=your-spotify-id&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/...../31tx3ngrebyi4eg7al7s4mxniqiq)
-
+  <img src="https://spotify-github-profile.vercel/api/view?uid=your-spotify-id&cover_image=true&theme=novatorem" />
+</p>
 ---
