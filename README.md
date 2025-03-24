@@ -28,7 +28,7 @@
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/your-Jenith01/your-Jenith01/main/aqua-glow.svg" alt="Aqua Glow" width="800">
+  <img src="(https://www.google.com/url?sa=i&url=https%3A%2F%2Fdaanimeblog.com%2F2022%2F09%2F06%2Fone-2-one-with-d-j-lewis-aqua-konosuba%2F&psig=AOvVaw3wapjFPldCkZ9YA2DiWRMz&ust=1742935701920000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJCk1M7Lo4wDFQAAAAAdAAAAABAE" alt="Aqua Glow" width="800">
 </p>
 
 
