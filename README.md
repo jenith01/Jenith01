@@ -31,7 +31,6 @@
   <img src="https://media.tenor.com/RTH3ZybtFeYAAAAC/konosuba-aqua.gif" width="600" alt="Aqua Animation">
 </p>
 
-
 ---
 
 ### 🌎 Connect with Me  
@@ -43,6 +42,6 @@
 ---
 
 ### 🎵 Vibes While Coding  
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=your-spotify-id&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/user/your-spotify-id)
+[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=your-spotify-id&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/...../31tx3ngrebyi4eg7al7s4mxniqiq)
 
 ---
