@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<h1 align="center">Hi there, I'm Jenith👋</h1>
+<h1 align="center">I'm Jenith👋</h1>
 
 <p align="center">
   <a href="https://github.com/your-Jenith01">
@@ -27,11 +27,10 @@
 
 ---
 
-### 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-Jenith01&show_icons=true&theme=dark" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-Jenith01&theme=dark" height="150" />
+  <img src="https://raw.githubusercontent.com/your-Jenith01/your-Jenith01/main/aqua-glow.svg" alt="Aqua Glow" width="800">
 </p>
+
 
 ---
 
