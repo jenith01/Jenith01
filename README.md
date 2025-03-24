@@ -27,9 +27,7 @@
 
 ---
 
-<p align="center">
-  <img src="(https://www.google.com/url?sa=i&url=https%3A%2F%2Fdaanimeblog.com%2F2022%2F09%2F06%2Fone-2-one-with-d-j-lewis-aqua-konosuba%2F&psig=AOvVaw3wapjFPldCkZ9YA2DiWRMz&ust=1742935701920000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJCk1M7Lo4wDFQAAAAAdAAAAABAE" alt="Aqua Glow" width="800">
-</p>
+
 
 
 ---
@@ -46,5 +44,3 @@
 [![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=your-spotify-id&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/user/your-spotify-id)
 
 ---
-
-🔥 **"Code, Create, Conquer!"** 🚀  
