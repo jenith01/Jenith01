@@ -1,10 +1,10 @@
 ## Hi there 👋
 
-<h1 align="center">Hi there, I'm Jenith👋></h1>
+<h1 align="center">Hi there, I'm Jenith👋</h1>
 
 <p align="center">
   <a href="https://github.com/your-Jenith01">
-    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Currently+learning;Open+Source+Enthusiast;Tech+Explorer;Always+Learning" />
+    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Currently+learning;A+Normal+Nonchalant+Uni+student;Tech+Explorer;Growing+day+by+day" />
   </a>
 </p>
 
