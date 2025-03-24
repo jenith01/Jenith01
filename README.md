@@ -27,10 +27,7 @@
 
 ---
 
-<p align="center">
-  <img src="https://media.tenor.com/RTH3ZybtFeYAAAAC/konosuba-aqua.gif" width="600" alt="Aqua Animation">
-</p>
-
+<P>i am still working on the profile </P>
 ---
 
 ### 🌎 Connect with Me  
