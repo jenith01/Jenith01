@@ -39,10 +39,9 @@
 ---
 
 ### 🎵 Vibes While Coding  
+[![Spotify](https://your-vercel-deployment-url.vercel.app/api/spotify)](https://open.spotify.com/...../31tx3ngrebyi4eg7al7s4mxniqiq)
 const playlistId = '25gGbsP0KBP8vFx3MRJvzC';
-
 <iframe
-  title="Spotify Embed: Recommendation Playlist "
   src={`https://open.spotify.com/embed/playlist/25gGbsP0KBP8vFx3MRJvzC?utm_source=generator&theme=0`}
   width="100%"
   height="100%"
