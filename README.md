@@ -1,6 +1,6 @@
-## Hi there 👋
+## Hi there
 
-<h1 align="center">I'm Jenith👋</h1>
+<h1 align="center">I'm Jenith</h1>
 
 <p align="center">
   <a href="https://github.com/your-Jenith01">
