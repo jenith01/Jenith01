@@ -10,7 +10,7 @@
   ╚═╝╚══════╝╚═╝  ╚═══╝╚═╝   ╚═╝   ╚═╝  ╚═╝
 ```
 
-### `> future king of the keyboard`
+### `> Here to work and classify stuffs`
 
 ![Typing](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=18&pause=1000&color=00FF41&center=true&vCenter=true&width=500&lines=Student+%7C+Code+Learner+%7C+Builder;One+commit+at+a+time...;I'm+gonna+be+King+of+the+Keyboard!;Gum+Gum+%E2%80%94+PISTOL+%F0%9F%91%8A)
 
